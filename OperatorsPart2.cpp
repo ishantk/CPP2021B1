@@ -64,4 +64,6 @@ int main(){
     cout<<"Can i Navigate with Google Maps: "<<(internet && gps)<<endl;
 
     return 0;
+
+    // In The same Program use cout and cin
 }
