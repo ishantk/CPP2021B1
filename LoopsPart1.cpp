@@ -20,7 +20,7 @@ int main(){
     cout<<number<<" 10's are "<<number*10<<endl;*/
 
     int index = 1;
-    while(index <= 10){
+    while(index <= 10){ // Entry Control Loop => Condition Testing Happens Before we enter the loop
         cout<<number<<" "<<index<<"'s are "<<number*index<<endl;
         index+=2;
     }
