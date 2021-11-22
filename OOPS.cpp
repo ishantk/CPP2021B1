@@ -4,7 +4,7 @@ using namespace std;
 /*
 
     Introduction to OOPS
-----------------------
+    ----------------------
     Object Oriented Programming Structure
        
         Computer Science:
